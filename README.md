@@ -33,17 +33,16 @@ This project features two fully functional versions of the game:
 🔸 **C Version**  
 Make sure GCC is installed, then compile and run:
 
-```bash
+
 cd c
 gcc number_guess_game.c -o game
 ./game
 
 ---
-```markdown
 🔹 **Python Version**
 Make sure Python is installed, then:
 
-```bash
+
 cd python
 python number_guess_game.py
 
