@@ -39,7 +39,7 @@ gcc number_guess_game.c -o game
 ./game
 
 ---
-
+```markdown
 🔹 **Python Version**
 Make sure Python is installed, then:
 
