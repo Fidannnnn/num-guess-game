@@ -39,8 +39,8 @@ python number_guess_game.py
 
 
 
-
-### 🔹 C Version
+```markdown
+### 🔸 C Version  
 Make sure GCC is installed, then compile and run:
 
 ```bash
