@@ -28,7 +28,17 @@ This project features two fully functional versions of the game:
 
 ---
 
-## 🛠 How to Run
+## 🛠 How to Run C
+
+### 🔸 C Version  
+Make sure GCC is installed, then compile and run:
+
+```bash
+cd c
+gcc number_guess_game.c -o game
+./game
+
+
 
 ### 🔹 Python Version
 Make sure Python is installed, then:
@@ -37,14 +47,4 @@ Make sure Python is installed, then:
 cd python
 python number_guess_game.py
 
-
-
-```markdown
-### 🔸 C Version  
-Make sure GCC is installed, then compile and run:
-
-```bash
-cd c
-gcc number_guess_game.c -o game
-./game
 
