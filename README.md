@@ -38,8 +38,13 @@ cd python
 python number_guess_game.py
 
 
+
+
 ### 🔹 C Version
 Make sure GCC is installed, then compile and run:
+
+```bash
 cd c
 gcc number_guess_game.c -o game
 ./game
+
